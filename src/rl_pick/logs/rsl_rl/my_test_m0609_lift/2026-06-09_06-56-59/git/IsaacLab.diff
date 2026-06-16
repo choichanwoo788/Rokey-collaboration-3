@@ -1,0 +1,43 @@
+--- git commit ---
+f73c33173801f5f8afea4142482e47b7710c2b75
+
+
+--- git status ---
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	m0609_aruco_detect.zip
+	m0609_aruco_detect/
+	m0609_lift_code_ver2/
+	m0609_lift_practice_01/
+	m0609_lift_practice_02/
+	m0609_lift_practice_03/
+	m0609_lift_practice_04.zip
+	m0609_lift_practice_04/
+	m0609_lift_practice_05.zip
+	m0609_lift_practice_05/
+	m0609_lift_practice_06/
+	m0609_lift_practice_07/
+	m0609_lift_practice_08/
+	m0609_lift_practice_09/
+	m0609_lift_practice_10/
+	m0609_lift_practice_11/
+	m0609_lift_practice_12.zip
+	m0609_lift_practice_12/
+	m0609_lift_practice_13/
+	m0609_lift_practice_14/
+	m0609_lift_practice_15/
+	m0609_lift_practice_16/
+	m0609_lift_practice_17.zip
+	m0609_lift_practice_17/
+	m0609_lift_practice_18.zip
+	m0609_lift_practice_18/
+	m0609_lift_practice_19.zip
+	m0609_lift_practice_19/
+
+nothing added to commit but untracked files present (use "git add" to track) 
+
+
+--- git diff ---

@@ -1,0 +1,9 @@
+[package]
+version = "0.1.0"
+title = "COBOT3 M0609 POLICY SUCTION"
+description = "M0609 policy and suction controller attached to the currently opened Isaac Sim GUI stage."
+category = "Other"
+keywords = ["m0609", "policy", "suction", "cobot3"]
+
+[[python.module]]
+name = "cobot3_policy_suction"
